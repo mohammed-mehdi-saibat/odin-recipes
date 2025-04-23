@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+}
+
+.nav {
+    background-color: #BDDDE4;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.nav h1 {
+    color: white;
+}
+
+.links {
+    text-align: center;
+    margin-top: 100px;
+    padding: 30px;
+}
+
+.links ul {
+    list-style: none;
+}
+
+.links ul li { 
+    margin-bottom: 10px;
+    background-color: #BDDDE4;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 50px; 
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.links ul li a {
+    text-decoration: none;
+    color: white;
+}
