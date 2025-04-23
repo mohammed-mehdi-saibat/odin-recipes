@@ -1,0 +1,83 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.home {
+  position: fixed;
+  right: 0;
+  margin: 10px 20px 0 0;
+  text-decoration: none;
+  background-color: #bddde4;
+  color: white;
+  padding: 6px 10px;
+  font-weight: bold;
+}
+
+.title {
+  background-color: #bddde4;
+  width: fit-content;
+  padding: 6px 10px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.title h1 {
+  color: white;
+}
+
+.image {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.description {
+  margin-bottom: 20px;
+  margin-left: 10px;
+}
+
+.description h4 {
+  line-height: 1.3;
+}
+
+.ingredients {
+  background-color: #bddde4;
+  width: fit-content;
+  padding: 6px 10px;
+  margin-bottom: 20px;
+}
+
+.ingredients h2 {
+  color: white;
+}
+
+.ingredientsList {
+  margin-bottom: 20px;
+  margin-left: 50px;
+}
+
+.ingredientsList ul li {
+  margin-bottom: 15px;
+}
+
+.steps {
+  background-color: #bddde4;
+  width: fit-content;
+  padding: 6px 10px;
+  margin-bottom: 20px;
+}
+
+.steps h2 {
+  color: white;
+}
+
+.stepsList {
+  margin-bottom: 20px;
+  margin-left: 50px;
+}
+
+.stepsList ol li {
+  margin-bottom: 15px;
+}
